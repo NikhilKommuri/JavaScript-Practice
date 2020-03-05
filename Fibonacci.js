@@ -16,9 +16,9 @@ function fibonacci(n)
  else 
  for(var i = 2; i <= n; i++)
  { 
-    newFib = previousFib + currentFib;
-		previousFib = currentFib;
-		currentFib  = newFib;
+	newFib = previousFib + currentFib;
+    	previousFib = currentFib;
+	currentFib  = newFib;
  }
   return currentFib;
 }
