@@ -1,4 +1,5 @@
-#Write a function that takes the current position of a knight on a chessboard, and returns a preliminary list of possible moves the knight could make
+//Write a function that takes the current position of a knight on a chessboard, 
+//and returns a preliminary list of possible moves the knight could make
 
 function chessKnight(knightposition)
 {
