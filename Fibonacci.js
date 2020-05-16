@@ -1,3 +1,5 @@
+//Write a function to compute the Nth Fibonacci number
+
 function fibonacci(n)
 { 
  var previousFib  = 0; 
